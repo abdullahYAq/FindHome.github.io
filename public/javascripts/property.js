@@ -1,0 +1,5 @@
+/*  
+    proId---> GUID
+    typeId---> typeTable
+    
+*/
